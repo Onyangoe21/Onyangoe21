@@ -1,7 +1,7 @@
 - 👋 Hi, I’m EdwinOnyango
-- 👀 I’m in love with Artificial Intelligence, Web Dev, Robotics and Computer Science in general.
-- 🌱 I’m currently learning Computer Science at Dartmouth College.
-- I’m looking to collaborate on working on robotics programming projects
+- 👀 I’m in love with Artificial Intelligence, Computer Vision, Robotics and Neuroscience.
+- 🌱 I’m currently a double major in Computer Science and Neuroscience at Dartmouth College.
+- I’m looking to collaborate on working on programming projects
 - 📫 You can reach out to me @EDWIN.O.ONYANGO.JR.25@DARTMOUTH.EDU
 
 <!---
